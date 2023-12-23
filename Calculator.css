@@ -1,12 +1,12 @@
 :root {
     --background: #b5d3ed;
-    --font: #222;
+    --font: #070404;
     --border: #100e0e;
     --screen: #eee;
-    --calculator: #aaa;
+    --calculator: #423f3f;
     --btn: #eee;
-    --btn-hover: #f2c8c8;
-    --btn-active: #858080;
+    --btn-hover: #b5d3ed;
+    --btn-active: #d5f0f8;
     --btn-red: rgb(236, 40, 40);
     --btn-red-hover: rgb(200, 10, 10);
     --btn-red-active: rgb(250, 123, 123);
