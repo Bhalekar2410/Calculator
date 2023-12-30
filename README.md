@@ -1,5 +1,7 @@
 # Calculator 
 - created by Manisha Bhalekar
+-  This web page is hosted [here!](https://bhalekar2410.github.io/Calculator/)
+
 
 # Overview
 The Calculator project is a simple yet functional web-based calculator application. This repository contains the complete source code and assets for the project. The calculator is designed with a clean and user-friendly interface, making it easy for users to perform basic arithmetic operations. The project utilizes HTML for structure, CSS for styling, and JavaScript for dynamic functionality.
